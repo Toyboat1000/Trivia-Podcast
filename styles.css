@@ -2,7 +2,6 @@ maintext1{
     text-align: center;
     position: fixed;
     font-size: 500px;
-    background-position: center;
 }
 
 
@@ -11,7 +10,6 @@ mainbutton1{
     position: fixed;
     font-size: 500px;
     border-radius: 10px;
-    background-position: center;
 }
 .mainbutton1:active{
     background-color: #00d90f;
@@ -19,7 +17,7 @@ mainbutton1{
 
 .TriviaPhoto{
     position: fixed;
-
+    text-align: center;
     background-position: center;
     background-attachment: fixed;
 }
