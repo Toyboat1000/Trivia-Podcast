@@ -19,8 +19,7 @@ mainbutton1{
 
 .TriviaPhoto{
     position: fixed;
-    top: 200px;
-    left: 100px;
+
     background-position: center;
     background-attachment: fixed;
 }
