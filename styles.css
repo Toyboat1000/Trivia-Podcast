@@ -9,7 +9,7 @@ mainbutton1{
     text-align: center;
     position: fixed;
     font-size: 500px;
-    border-radius: 20px;
+    border-radius: 50px;
 }
 .mainbutton1:active{
     background-color: #00d90f;
