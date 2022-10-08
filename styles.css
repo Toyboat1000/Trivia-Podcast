@@ -1,18 +1,20 @@
-maintext1{
+.maintext1{
     text-align: center;
     position: fixed;
     font-size: 500px;
 }
 
 
-mainbutton1{
+.mainbutton1{
     text-align: center;
     position: fixed;
     font-size: 500px;
     border-radius: 10px;
 }
+
+
+
 .button2:active{
-    
     border-color: #00d90f;
 }
 
