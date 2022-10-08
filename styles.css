@@ -5,6 +5,13 @@
     left: 50%;
     font-size: 100px;
 }
+.version{
+    text-align: center;
+    position: fixed;
+    top: 5%;
+    left: 90%;
+    font-size: 25px;
+}
 
 
 .mainbutton1{
@@ -12,7 +19,7 @@
     position: fixed;
     top: 95%;
     left: 50%;
-    font-size: 100px;
+    font-size: 95px;
     border-radius: 10px;
 }
 
