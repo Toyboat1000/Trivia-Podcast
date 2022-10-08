@@ -2,44 +2,78 @@
     text-align: center;
     position: fixed;
     top: 5%;
-    left: 25%;
+    left: 35%;
     font-size: 100px;
 }
 .version{
     text-align: center;
     position: fixed;
-    top: 5%;
+    top: 0%;
     left: 90%;
     font-size: 25px;
 }
 
-
+/* buttons */
 .mainbutton1{
     text-align: center;
     position: fixed;
-    top: 95%;
-    left: 50%;
+    top: 85%;
+    left: 35%;
     font-size: 95px;
     border-radius: 10px;
 }
+.button2{
+    text-align: center;
+    position: fixed;
+    top: 30%;
+    left: 40%;
+    font-size: 50px;
+    border-radius: 10px;
+}
+.button3{
+    text-align: center;
+    position: fixed;
+    top: 30%;
+    left: 50%;
+    font-size: 50px;
+    border-radius: 10px;
+}
 
-
+.mainbutton1:active{
+    border-color: #00d90f;
+    border-width: 5px;
+}
 
 .button2:active{
     border-color: #00d90f;
+    border-width: 5px;
 }
 
 .button3:active{
-    background-color: #00d90f;
+    border-color: #00d90f;
+    border-width: 5px;
 }
 
-.button3:active{
-    background-color: #00d90f;
-}
+
+
+/* buttons */
 
 .TriviaPhoto{
     position: fixed;
     text-align: center;
     background-position: center;
     background-attachment: fixed;
+    position: fixed;
+    top: 15%;
+    left: -7%;
+}
+
+.TriviaPhoto2{
+    position: fixed;
+    text-align: center;
+    background-position: center;
+    background-attachment: fixed;
+    position: fixed;
+    top: 15%;
+    left: 80%;
 }
