@@ -1,6 +1,8 @@
 .maintext1{
     text-align: center;
     position: fixed;
+    top: 50%;
+    left: 50%;
     font-size: 100px;
 }
 
@@ -8,6 +10,8 @@
 .mainbutton1{
     text-align: center;
     position: fixed;
+    top: 95%;
+    left: 50%;
     font-size: 100px;
     border-radius: 10px;
 }
