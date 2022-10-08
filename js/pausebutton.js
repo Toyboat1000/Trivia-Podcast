@@ -7,7 +7,8 @@ btn2.addEventListener('click', function handleClick() {
         multipurpose2 = "false";
         console.log('paused');
        
-    } else {
+    } 
+    if (multipurpose2 == "false") {
         btn2.textContent = "Pause";
         console.log('Played');
         multipurpose2 = "true";
