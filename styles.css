@@ -12,7 +12,8 @@ mainbutton1{
     border-radius: 10px;
 }
 .button2:active{
-    background-color: #00d90f;
+    
+    border-color: #00d90f;
 }
 
 .button3:active{
