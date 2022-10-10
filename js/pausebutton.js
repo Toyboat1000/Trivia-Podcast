@@ -1,7 +1,7 @@
 const btn2 = document.getElementById('button2');
 const btn3 = document.getElementById('button3');
 
-var audio = new Audio('sounds/Fart123.mp3');
+var audio = new Audio('sounds/Whitenoise.wav');
 
 
 btn2.addEventListener('click', function handleClick() {
