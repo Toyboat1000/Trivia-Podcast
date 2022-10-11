@@ -5,3 +5,11 @@
     left: 35%;
     font-size: 100px;
 }
+
+.button4{
+    text-align: center;
+    position: fixed;
+    top: 10%;
+    left: 5%;
+    font-size: 50px;
+}
