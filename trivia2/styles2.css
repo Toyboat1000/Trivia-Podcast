@@ -38,3 +38,21 @@
     top: 80px;
     left: 40%; 
 }
+
+.maintext3{
+    position: absolute;
+    top: 100px;
+    left: 50%;
+}
+
+.t2{
+    position: absolute;
+    top: 100px;
+    left: 50%;
+}
+
+.b2{
+    position: absolute;
+    top: 100px;
+    left: 40%; 
+}
