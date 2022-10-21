@@ -21,6 +21,9 @@
     font-size: 50px;
 }
 
+
+
+
 .maintext2{
     position: absolute;
     top: 80px;
@@ -33,19 +36,28 @@
     left: 50%;
 }
 
+.t2{
+    position: absolute;
+    top: 80px;
+    left: 60%;
+}
+
+.t3{
+    position: absolute;
+    top: 80px;
+    left: 70%;
+}
+
+
 .b1{
     position: absolute;
     top: 80px;
     left: 40%; 
 }
 
-.maintext3{
-    position: absolute;
-    top: 100px;
-    left: 50%;
-}
 
-.t2{
+
+.maintext3{
     position: absolute;
     top: 100px;
     left: 50%;
