@@ -1,7 +1,7 @@
 const btn2 = document.getElementById('button2');
 const btn3 = document.getElementById('button3');
 
-var audio = new Audio('sounds/Whitenoise.wav');
+var audio = new Audio('sounds/TrivaPodcast.mp3');
 
 
 btn2.addEventListener('click', function handleClick() {
